@@ -6,3 +6,5 @@ if a < 10:
     print(c)
 else:
     print(b)
+
+print("i wish i knew you wanted me")
